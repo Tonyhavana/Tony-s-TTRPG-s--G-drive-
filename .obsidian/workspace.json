@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test 1 - to the phone.md",
+                "file": "2025-05-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 1 - to the phone"
+              "title": "2025-05-16"
             }
           }
         ],
@@ -185,9 +185,14 @@
   },
   "active": "643b4ccb4d922010",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Test 1 - to the phone.md",
+    "Untitled.md",
+    "2025-05-16.md",
+    "Untitled.canvas",
+    "Test 2 - File to DT.md",
     "README.md",
+    "z_Templates",
+    "Test 1 - to the phone.md",
+    "Welcome.md",
     "create a link.md"
   ]
 }
